@@ -1,0 +1,1 @@
+export const baseApiUrl = 'https://api.tradersofafrica.com/api/v2'
